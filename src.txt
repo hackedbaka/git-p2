@@ -2,3 +2,4 @@ code inside src.txt
 further code added
 correct code added
 more hopefully working code added
+terse, efficient,tested,readable,maintainable code
