@@ -1,3 +1,2 @@
-code inside file.txt
-a mistake
-another mistake
+first
+second
